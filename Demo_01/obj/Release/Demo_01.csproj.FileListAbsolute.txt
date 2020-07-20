@@ -1,0 +1,12 @@
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\bin\Release\Demo_01.exe.config
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\bin\Release\Demo_01.exe
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\bin\Release\Demo_01.pdb
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\obj\Release\MainWindow.baml
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\obj\Release\MainWindow.g.cs
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\obj\Release\App.g.cs
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\obj\Release\Demo_01_MarkupCompile.cache
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\obj\Release\Demo_01.g.resources
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\obj\Release\Demo_01.Properties.Resources.resources
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\obj\Release\Demo_01.csproj.GenerateResource.Cache
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\obj\Release\Demo_01.exe
+C:\Users\Anthony\documents\visual studio 2013\Projects\Demo_01\Demo_01\obj\Release\Demo_01.pdb
